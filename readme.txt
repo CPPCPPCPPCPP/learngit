@@ -11,3 +11,4 @@ Creating a new branch is quick AND simple.
 2222222222222222222222222222
 >>>>>>> feature1
 on branch dev
+修复bug
